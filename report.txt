@@ -1,0 +1,57 @@
+Info: Reading netlist file 'C:\Users\Princy\Desktop\STM32F4_REV2\STM32F4_REV2.net'.
+
+Info: Using reference designators to match symbols and footprints.
+
+Info: Processing symbol 'J1:TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'U3:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Processing symbol 'U1:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Processing symbol 'Q1:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'U2:Package_QFP:LQFP-64_10x10mm_P0.5mm'.
+Info: Processing symbol 'H1:MountingHole:MountingHole_4.3mm_M4_Pad_Via'.
+Info: Processing symbol 'H2:MountingHole:MountingHole_4.3mm_M4_Pad_Via'.
+Info: Processing symbol 'H3:MountingHole:MountingHole_4.3mm_M4_Pad_Via'.
+Info: Processing symbol 'H4:MountingHole:MountingHole_4.3mm_M4_Pad_Via'.
+Info: Processing symbol 'D3:LED_SMD:LED_0603_1608Metric'.
+Info: Processing symbol 'D4:LED_SMD:LED_0603_1608Metric'.
+Info: Processing symbol 'L1:Inductor_SMD:L_Sunlord_MWSA0518S'.
+Info: Processing symbol 'FB1:Inductor_SMD:L_0805_2012Metric'.
+Info: Processing symbol 'L2:Inductor_SMD:L_0402_1005Metric'.
+Info: Processing symbol 'F1:Fuse:Fuse_1206_3216Metric'.
+Info: Processing symbol 'D2:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D1:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'Y1:Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm'.
+Info: Processing symbol 'J5:Connector_USB:USB_Micro-B_GCT_USB3076-30-A'.
+Info: Processing symbol 'J2:Connector_PinSocket_1.27mm:PinSocket_2x05_P1.27mm_Vertical_SMD'.
+Info: Processing symbol 'J3:Connector_Molex:Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal'.
+Info: Processing symbol 'J4:Connector_Molex:Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal'.
+Info: Processing symbol 'C1:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C14:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'SW1:Button_Switch_SMD:SW_SPDT_PCM12'.
+
+
+Info: Total warnings: 0, errors: 0.
